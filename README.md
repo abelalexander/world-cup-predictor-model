@@ -1,1 +1,1 @@
-# world-cup-predictor-model
+# World Cup Predictor Model
